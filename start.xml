@@ -130,14 +130,14 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>Пустой плейлист</title>
-	 <playlist_url>stop</playlist_url>
+	<title>RUS.HLS</title>
+	 <playlist_url>https://rus.hls.gd/pl/11/zt6x9cy4rjca/playlist.m3u8</playlist_url>
 	<description><![CDATA[<table><td style="vertical-align: top"><img src="logos/open.png" height="128" width="128"></img></td><td>Место зарезервированно под ваш плейлист! Перед установкой виджета в "start.xml" на данной позиции  можно прописать название и адрес вашего плейлиста</td></table><table style="width:100%; padding-top:3px;padding-bottom:3px;"><tr height="4px" bgcolor="#cccccc"><td></td></tr></table>]]></description>
 	<category_id>4</category_id>
 </channel>
 <channel>
-	<title>Пустой плейлист</title>
-	 <playlist_url>stop</playlist_url>
+	<title>EDEM</title>
+	 <playlist_url>http://afe41ef372b7.mylistbest.com/playlists/uplist/f35648853cda879c26be544a4b9d87a6/playlist.m3u8</playlist_url>
 	<description><![CDATA[<table><td style="vertical-align: top"><img src="logos/open.png" height="128" width="128"></img></td><td>Место зарезервированно под ваш плейлист! Перед установкой виджета в "start.xml" на данной позиции  можно прописать название и адрес вашего плейлиста</td></table><table style="width:100%; padding-top:3px;padding-bottom:3px;"><tr height="4px" bgcolor="#cccccc"><td></td></tr></table>]]></description>
 	<category_id>4</category_id>
 </channel>
