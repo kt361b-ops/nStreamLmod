@@ -40,14 +40,14 @@
 	<category_id>4</category_id>
 </channel>
 <channel>
-	<title>RUS.HLS</title>
-	 <playlist_url>https://rus.hls.gd/pl/11/zt6x9cy4rjca/playlist.m3u8</playlist_url>
+	<title>LIST TV-DV</title>
+	 <playlist_url>https://gitflic.ru/project/romzes_25/playlisttv/blob/raw?file=ip_playlistTV_DV.m3u</playlist_url>
 	<description><![CDATA[<table><td style="vertical-align: top"><img src="logos/open.png" height="128" width="128"></img></td><td>Место зарезервированно под ваш плейлист! Перед установкой виджета в "start.xml" на данной позиции  можно прописать название и адрес вашего плейлиста</td></table><table style="width:100%; padding-top:3px;padding-bottom:3px;"><tr height="4px" bgcolor="#cccccc"><td></td></tr></table>]]></description>
 	<category_id>4</category_id>
 </channel>
 <channel>
-	<title>RUS.HLS</title>
-	 <playlist_url>https://rus.hls.gd/pl/11/zt6x9cy4rjca/playlist.m3u8</playlist_url>
+	<title>https://ilook.epg.one/57AR4W2S5Q7NDSF4VET2USPL/2/img</title>
+	 <playlist_url>https://ilook.epg.one/57AR4W2S5Q7NDSF4VET2USPL/2/img</playlist_url>
 	<description><![CDATA[<table><td style="vertical-align: top"><img src="logos/open.png" height="128" width="128"></img></td><td>Место зарезервированно под ваш плейлист! Перед установкой виджета в "start.xml" на данной позиции  можно прописать название и адрес вашего плейлиста</td></table><table style="width:100%; padding-top:3px;padding-bottom:3px;"><tr height="4px" bgcolor="#cccccc"><td></td></tr></table>]]></description>
 	<category_id>4</category_id>
 </channel>
