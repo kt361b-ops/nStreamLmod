@@ -198,8 +198,8 @@
 	<category_id>4</category_id>
 </channel>
 	<channel>
-	<title>TVTM</title>
-	 <playlist_url>https://hls.gd/pl/121/p9xyxmhxeirj/playlist.m3u8</playlist_url>
+	<title>PLIST</title>
+	 <playlist_url>https://plist.link/RKKsq1tUgLu1/alltv.m3u8</playlist_url>
 	<description><![CDATA[<table><td style="vertical-align: top"><img src="logos/open.png" height="128" width="128"></img></td><td>Место зарезервированно под ваш плейлист! Перед установкой виджета в "start.xml" на данной позиции  можно прописать название и адрес вашего плейлиста</td></table><table style="width:100%; padding-top:3px;padding-bottom:3px;"><tr height="4px" bgcolor="#cccccc"><td></td></tr></table>]]></description>
 	<category_id>4</category_id>
 </channel>
