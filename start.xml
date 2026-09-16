@@ -145,7 +145,7 @@
 </channel>
 <channel>
 	<title>TVTM</title>
-	 <playlist_url>https://tvtm.one/pl/121/nj9ndxexeeq4/playlist.m3u8</playlist_url>
+	 <playlist_url>https://rus.tvtm.one/pl/121/nj9ndxexeeq4/playlist.m3u8</playlist_url>
 	<description><![CDATA[<table><td style="vertical-align: top"><img src="logos/open.png" height="128" width="128"></img></td><td>Место зарезервированно под ваш плейлист! Перед установкой виджета в "start.xml" на данной позиции  можно прописать название и адрес вашего плейлиста</td></table><table style="width:100%; padding-top:3px;padding-bottom:3px;"><tr height="4px" bgcolor="#cccccc"><td></td></tr></table>]]></description>
 	<category_id>4</category_id>
 </channel>
@@ -162,8 +162,8 @@
 	<category_id>4</category_id>
 </channel>
 	<channel>
-	<title>EDEM</title>
-	 <playlist_url>http://afe41ef372b7.mylistbest.com/playlists/uplist/f35648853cda879c26be544a4b9d87a6/playlist.m3u8</playlist_url>
+	<title>PL.RU-TV</title>
+	 <playlist_url>http://pl.ru-tv.site/93571ba2/Marin2016/tv.m3u</playlist_url>
 	<description><![CDATA[<table><td style="vertical-align: top"><img src="logos/open.png" height="128" width="128"></img></td><td>Место зарезервированно под ваш плейлист! Перед установкой виджета в "start.xml" на данной позиции  можно прописать название и адрес вашего плейлиста</td></table><table style="width:100%; padding-top:3px;padding-bottom:3px;"><tr height="4px" bgcolor="#cccccc"><td></td></tr></table>]]></description>
 	<category_id>4</category_id>
 </channel>
